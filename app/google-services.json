@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947695960732",
+    "firebase_url": "https://batoi-b484d.firebaseio.com",
+    "project_id": "batoi-b484d",
+    "storage_bucket": "batoi-b484d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947695960732:android:94d2890bfe5d9780d7a359",
+        "android_client_info": {
+          "package_name": "com.example.batoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947695960732-ufsjdhihg3upq0hksn7lo9l9mp836krg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batoi",
+            "certificate_hash": "3ce4653dce313336167bde160c07764b60bbebb0"
+          }
+        },
+        {
+          "client_id": "947695960732-silmfesc48ij401r78m7ulmq6q7s1n77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ciQikw4eKFSrInaPLPfY_3_ytQCGm8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947695960732-silmfesc48ij401r78m7ulmq6q7s1n77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
